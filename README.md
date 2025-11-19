@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhavinpokal
-- 👀 I’m interested in Financial Technology, Python, Capital Markets and Financial Risk Management.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on FinTech, Risk Managmenet projects.
+- 👀 I’m interested in Python, AI Agents and Scalable Web Apps.
+- 🌱 I’m currently learning AWS and DevOps.
+- 💞️ I’m looking to collaborate on Python, Agentic AI, FinTech projects.
 - 📫 How to reach me ...
 
 <!---
